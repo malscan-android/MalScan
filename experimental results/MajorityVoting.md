@@ -11,7 +11,8 @@ Experimental Result
 ===
 We select four centrality metrics, namlely degree centrality, closeness centrality, harmonic centrality and katz centrality. 
 We conduct another four experiments according to the selection of the threshold to flag an app as malicious which are 
-one (Vote_1), two (Vote_2), three (Vote_3) and all (Vote_4).
+one (Vote_1), two (Vote_2), three (Vote_3) and all (Vote_4). When we select three as the threshold to flag an app
+as malicious, the f1 is 97.72% which is higher than the other four individual experiments.
 
 
 |           | F1     | Accuracy | TPR    |
