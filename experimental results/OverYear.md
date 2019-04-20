@@ -20,7 +20,7 @@ Therefor, we add another experiment by calculating the
 average value of the former four centrality measures. In a
 word, we evaluate CenDroid by conducting five experiments
 on each scenario. And the CenDroid_AVE is the average value of the five experimental results, CenDroid_MAX is the max value of
-the five experimental results.
+the five experimental results. The following table shows the f-measure of our experimental results.
 <table>
 
  <tr height='18' style='mso-height-source:userset;height:13.5pt' id='r0'>
