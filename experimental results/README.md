@@ -1,1 +1,1 @@
-There are some experimental results on detecting Android malware by CenDroid.
+There are some experimental results on detecting Android malware by MalScan.
