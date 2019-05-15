@@ -1,1 +1,1 @@
-# The experimental results of CenDroid.
+# The experimental results of MalScan.
