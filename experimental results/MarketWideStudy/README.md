@@ -7,7 +7,7 @@ collect some information of apps in Google-Play app market
 which includes sha256, package name, apk size and dex date.
 As shown in the following table, the time period of these apps is
 from January 2011 to December 2018, and the total number
-of collected apps in Google-Play app market is 3,537,5959.
+of collected apps in Google-Play app market is 3,537,595.
 
 <table border=0 cellpadding=0 cellspacing=0 width=303 style='border-collapse:
  collapse;table-layout:fixed;width:227pt'>
