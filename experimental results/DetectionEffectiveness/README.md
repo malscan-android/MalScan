@@ -1,4 +1,4 @@
-# Experiment one: Detction Effectiveness
+# Detction Effectiveness
 
 We first evaluate how well MalScan on detecting malware
 by training and testing using samples that are developed
