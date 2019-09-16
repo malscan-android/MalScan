@@ -1,4 +1,4 @@
-# Experiment two: Detction Robustness
+# Robustness against Android Evolution
 
 We then evaluate the robustness of MalScan on detecting newer samples by training an old dataset. 
 
