@@ -1,9 +1,9 @@
-# Experiment five: Combination of different centralities
+# Combination of centrality measures
 
 We also propose the combination of different
 centralities on detecting Android malware. An app we consider as malware
 when it's reported to be malicious by one or more of the six
-centrality experiments. For testing the feasibility of majorityvoting,
+centrality experiments. For testing the feasibility of majority-voting,
 we conduct an experiment. We leverage a trained model by using 2011 dataset
 and test on datasets from 2012 to 2014 respectively. And the
 thresholds to flag an app as malicious in our experiment are
