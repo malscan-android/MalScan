@@ -1,4 +1,4 @@
-# Experiment four: Market-wide Case Study
+# Market-wide Case Study
 
 To validate the feasibility of MalScan on malware scanning
 of Google-Play scale Android app stores, we conduct a statistical
@@ -21,47 +21,47 @@ of collected apps in Google-Play app market is 3,537,595.
  </tr>
  <tr height=18 style='height:13.5pt'>
   <td height=18 class=xl65 style='height:13.5pt'>2011</td>
-  <td class=xl65>79192</td>
+  <td class=xl65>79,192</td>
   <td class=xl65>2.09</td>
  </tr>
  <tr height=18 style='height:13.5pt'>
   <td height=18 class=xl65 style='height:13.5pt'>2012</td>
-  <td class=xl65>158402</td>
+  <td class=xl65>158,402</td>
   <td class=xl65>3.05</td>
  </tr>
  <tr height=18 style='height:13.5pt'>
   <td height=18 class=xl65 style='height:13.5pt'>2013</td>
-  <td class=xl65>350736</td>
+  <td class=xl65>350,736</td>
   <td class=xl65>4.35</td>
  </tr>
  <tr height=18 style='height:13.5pt'>
   <td height=18 class=xl65 style='height:13.5pt'>2014</td>
-  <td class=xl65>1025021</td>
+  <td class=xl65>1,025,021</td>
   <td class=xl65>6.04</td>
  </tr>
  <tr height=18 style='height:13.5pt'>
   <td height=18 class=xl65 style='height:13.5pt'>2015</td>
-  <td class=xl65>524026</td>
+  <td class=xl65>524,026</td>
   <td class=xl65>8.69</td>
  </tr>
  <tr height=18 style='height:13.5pt'>
   <td height=18 class=xl65 style='height:13.5pt'>2016</td>
-  <td class=xl65>994635</td>
+  <td class=xl65>994,635</td>
   <td class=xl65>9.79</td>
  </tr>
  <tr height=18 style='height:13.5pt'>
   <td height=18 class=xl65 style='height:13.5pt'>2017</td>
-  <td class=xl65>207280</td>
+  <td class=xl65>207,280</td>
   <td class=xl65>11.01</td>
  </tr>
  <tr height=18 style='height:13.5pt'>
   <td height=18 class=xl65 style='height:13.5pt'>2018</td>
-  <td class=xl65>198303</td>
+  <td class=xl65>198,303</td>
   <td class=xl65>12.17</td>
  </tr>
  <tr height=18 style='height:13.5pt'>
   <td height=18 class=xl65 style='height:13.5pt'>Total</td>
-  <td class=xl65>3537595</td>
+  <td class=xl65>3,537,595</td>
   <td class=xl65>7.73</td>
  </tr>
  <![if supportMisalignedColumns]>
