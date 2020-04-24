@@ -1,0 +1,2 @@
+required: networx, androguard, numpy, and sklearn.
+python: python3
